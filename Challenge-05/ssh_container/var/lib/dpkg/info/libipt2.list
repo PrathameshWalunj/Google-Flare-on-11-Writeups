@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libipt.so.2.0.5
+/usr/share
+/usr/share/doc
+/usr/share/doc/libipt2
+/usr/share/doc/libipt2/README
+/usr/share/doc/libipt2/changelog.Debian.gz
+/usr/share/doc/libipt2/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libipt2
+/usr/lib/x86_64-linux-gnu/libipt.so.2
